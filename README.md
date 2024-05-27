@@ -14,8 +14,8 @@ allprojects {
 // 添加以下代码到app模块的build.gradle
 dependencies {
     // 需要依赖dora框架进行配置的注入
-    implementation 'com.github.dora4:dora:1.2.4'
-    implementation 'com.github.dora4:dview-toast:1.0'
+    implementation 'com.github.dora4:dora:1.2.5'
+    implementation 'com.github.dora4:dview-toast:1.1'
 }
 ```
 
