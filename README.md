@@ -19,7 +19,7 @@ dependencies {
 }
 ```
 
-#### Gradle依赖配置
+#### Dora注入配置
 ```xml
 <application>
         <!-- Dora生命周期注入的配置 -->
