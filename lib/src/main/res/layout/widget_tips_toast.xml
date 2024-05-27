@@ -23,7 +23,7 @@
             android:drawablePadding="4dp"
             android:gravity="center"
             android:textColor="@android:color/white"
-            android:textSize="15sp" />
+            android:textSize="15dp" />
 
     </FrameLayout>
 </layout>
