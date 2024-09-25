@@ -2,6 +2,10 @@ dview-toast
 ![Release](https://jitpack.io/v/dora4/dview-toast.svg)
 --------------------------------
 
+#### 卡片
+
+![Dora视图_Toast--](https://github.com/user-attachments/assets/5189d802-9b3a-4d5a-b405-19f06df9674d)
+
 #### Gradle依赖配置
 
 ```groovy
