@@ -31,6 +31,7 @@ dependencies {
 ```
 
 #### Gradle依赖配置
+
 ```xml
 <application>
         <!-- Dora生命周期注入的配置 -->
@@ -39,3 +40,7 @@ dependencies {
             android:value="GlobalConfig"/>
 </application>
 ```
+
+#### 示例代码
+
+https://github.com/dora4/dora_samples
