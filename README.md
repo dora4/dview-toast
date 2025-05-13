@@ -3,8 +3,8 @@ dview-toast
 --------------------------------
 
 #### 卡片
+![DORA视图 居中吐司](https://github.com/user-attachments/assets/c5508f89-57b5-46e2-82a4-3483f2dcbf98)
 
-![Dora视图_Toast--](https://github.com/user-attachments/assets/5189d802-9b3a-4d5a-b405-19f06df9674d)
 ##### 卡名：Dora视图 Toast 
 ###### 卡片类型：效果怪兽
 ###### 属性：炎
