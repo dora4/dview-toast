@@ -6,11 +6,10 @@ plugins {
 
 android {
     namespace = "dora.widget.toast"
-    compileSdk = 32
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 21
-        targetSdk = 32
     }
     buildTypes {
         release {
@@ -22,15 +21,14 @@ android {
         dataBinding = true
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
 }
 
 dependencies {
-    implementation("androidx.core:core-ktx:1.13.1")
-    implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.github.dora4:dora:1.2.4")
+    implementation("androidx.appcompat:appcompat:1.7.1")
+    implementation("com.github.dora4:dora:1.3.53")
 }
 
 afterEvaluate {
@@ -40,7 +38,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.dora4"
                 artifactId = rootProject.project.name
-                version = "1.1"
+                version = "1.2"
             }
         }
     }
